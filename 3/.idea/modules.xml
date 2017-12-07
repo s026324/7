@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/septintaUzduotis.iml" filepath="$PROJECT_DIR$/.idea/modules/septintaUzduotis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/septintaUzduotis_main.iml" filepath="$PROJECT_DIR$/.idea/modules/septintaUzduotis_main.iml" group="septintaUzduotis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/septintaUzduotis_test.iml" filepath="$PROJECT_DIR$/.idea/modules/septintaUzduotis_test.iml" group="septintaUzduotis" />
+    </modules>
+  </component>
+</project>
